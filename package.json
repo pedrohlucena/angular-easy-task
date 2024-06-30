@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "new:component": "ng generate component --skip-tests"
+    "new:component": "ng generate component --skip-tests",
+    "new:service": "ng generate service --skip-tests"
   },
   "private": true,
   "dependencies": {
